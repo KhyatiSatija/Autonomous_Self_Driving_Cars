@@ -36,7 +36,7 @@ To run the project, follow these steps:
 4. Now, download Trackmania and build a track for the lane detection algorithm.
 5. Execute the main script, which will capture real-time screenshots, process them, and generate control commands for the car.
 
-## Demo Video
+## Demo Video 
 https://youtu.be/oW5gA0JFwbM
 
 ## Acknowledgments
