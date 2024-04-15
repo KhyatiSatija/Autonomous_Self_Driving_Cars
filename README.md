@@ -36,6 +36,9 @@ To run the project, follow these steps:
 4. Now, download Trackmania and build a track for the lane detection algorithm.
 5. Execute the main script, which will capture real-time screenshots, process them, and generate control commands for the car.
 
+## Demo Video
+https://youtu.be/oW5gA0JFwbM
+
 ## Acknowledgments
 
 This project builds upon the work of Nvidia's research paper on end-to-end learning for self-driving cars. We also thank the creators of the Udacity simulator for providing a valuable platform for data collection and testing. We also thank @entBabby for their comprehensive tutorial on self-driving car using Convolutional Neural Network.
